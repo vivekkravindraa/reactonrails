@@ -1,3 +1,5 @@
+https://www.nopio.com/blog/rails-with-react-webpacker-gem/
+
 # README
 
 This README would normally document whatever steps are necessary to get the
